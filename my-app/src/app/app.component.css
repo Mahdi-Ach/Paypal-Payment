@@ -1,0 +1,8 @@
+.modelpopup{
+    background: red;
+    transform: scale(0);
+    transition: scale ease 0.3;
+}
+.active{
+    transform: scale(1);
+}
